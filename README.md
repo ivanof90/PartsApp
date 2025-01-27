@@ -9,3 +9,5 @@ Run in dev
 uvicorn app:app --reload --port 5000
 
 swagger docs: http://127.0.0.1:5000/docs
+
+Postman collection in docs
